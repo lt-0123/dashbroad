@@ -4,7 +4,7 @@
     {
       "quantile_name": "Top 1%",
       "examples": [
-        [
+        {
           "tokens_acts_list": [
             -0.0,
             0.128,
